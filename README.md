@@ -1,3 +1,4 @@
+Full stack software engineer @ ProgaTech | .NET | React | AWS 
 Warsaw, Poland
 
     andriy.ishchukk@gmail.com
